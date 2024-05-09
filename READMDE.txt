@@ -1,0 +1,29 @@
+Student name: Ochiagha ifeanyi
+Student number: 7900465
+Assignment 2 question 1
+To compile it has to be passed in a user text file to create the users then you will be required
+to put in the user name and password to login. 
+the following files are being submitted
+A2Client.java
+A2Server.java
+Adminstrator.java
+Customer.java
+CustomerList.java
+Command.java
+Reservation.java
+ReservationManager.java
+ReservationServer.java
+ReservationList.java
+rewardcard.java
+Room.java
+User.java
+Manager.java
+Hotel.java
+
+
+visual studio code Version: 1.81.1 (Universal) used on mac OS ventura.
+Made use of stackover flow to see how an interface can be implemented.
+
+
+
+
